@@ -11,8 +11,8 @@
 ## Технологии
 
 - Django — веб-фреймворк.
-- Модель машинного обучения — обучена на [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
+- Трансформер — дообучен на [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
 
 ## Демо
 
-Сервис доступен по [ссылке](https://movie-review-47md.onrender.com) (чтобы попасть на сайт, придётся в течение ~3 минут сделать несколько попыток захода).
+Сервис доступен по [ссылке](https://movie-review-using-transformers.onrender.com/) (чтобы попасть на сайт, придётся в течение ~3 минут сделать несколько попыток захода).
